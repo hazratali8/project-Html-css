@@ -1,9 +1,10 @@
 h1 {
     color:purple;
     font-size: 30px;
+    text-align: center;
 }
 body {
-    background-color: pink;
+    background-color: aqua;
 }
 b {
     color: red;
@@ -12,14 +13,16 @@ b {
 address {
     color: black;
     background-color:white;
+    text-align: right;
     
 }
 h3 {
     font-size: 20px;
     color: brown;
 }
-table {
+table  {
     border-color: yellow;
+    
    
     
 }
@@ -27,6 +30,7 @@ caption {
     color: red;
     font-size: 25px;
 }
+
 h2 {
     color: brown;
     font-size: 30px;
@@ -42,6 +46,7 @@ td {
 ol {
     color: red;
     font-size: 20px;
+
 }
 ul, a {
     color: blue;
@@ -51,4 +56,5 @@ form {
     background-color: burlywood;
     color: darkblue;
     font-size: 20px;
+    text-align: center;
 }
