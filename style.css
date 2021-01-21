@@ -1,0 +1,54 @@
+h1 {
+    color:purple;
+    font-size: 30px;
+}
+body {
+    background-color: pink;
+}
+b {
+    color: red;
+    font-size: 20px;
+}
+address {
+    color: black;
+    background-color:white;
+    
+}
+h3 {
+    font-size: 20px;
+    color: brown;
+}
+table {
+    border-color: yellow;
+   
+    
+}
+caption {
+    color: red;
+    font-size: 25px;
+}
+h2 {
+    color: brown;
+    font-size: 30px;
+}
+th  {
+    color: white;
+    background-color: chartreuse;
+}
+td {
+    background-color: white;
+    color: red;
+}
+ol {
+    color: red;
+    font-size: 20px;
+}
+ul, a {
+    color: blue;
+    font-size: 20px;
+}
+form {
+    background-color: burlywood;
+    color: darkblue;
+    font-size: 20px;
+}
